@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.wrapper {
+    border-style: solid;
+    border-radius: 20px;
+    margin-top: 20px;
+    flex-direction: row;
+    display: flex;
+    padding: 0 0;
+}
+
+.table{
+    align-items: center;
+}
+
+.text {
+    height: 100%;
+}
+
+.section50{
+    width: 50%;
+}
+.section50 img {
+    width:100%;
+    height:100%;
+}
+.heroImg{
+    height: 700px;
+}
+.wallpaper{
+    width: 100%;
+    height: 100%;
+}

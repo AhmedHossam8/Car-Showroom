@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.wrapper {
+    border-style: solid;
+    border-radius: 20px;
+    height: 350px;
+    margin-top: 20px;
+    display: flex;
+    padding: 0 20px;
+}
+
+.table{
+    align-items: center;
+}
+
+.text {
+    height: 100%;
+}
+
+.section50{
+    width: 50%;
+}
+.section50 img {
+    width:100%;
+    height:100%;
+}
+.heroImg{
+    height: 700px;
+}
+.wallpaper{
+    width: 100%;
+    height: 100%;
+}
